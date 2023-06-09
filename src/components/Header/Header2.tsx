@@ -6,7 +6,7 @@ import { SiGithub } from "react-icons/si";
 
 const Header2 = (): JSX.Element => {
   return (
-    <aside className='container mx-4 pt-10 w-[22.7rem] xl:w-96 mt-4 col-span-12 lg:col-span-5 2xl:col-span-4  h-68 xl:h-72 xl:sticky xl:top-5 '>
+    <aside className='container mx-4 pt-12 md:pt-10 w-[22.7rem] xl:w-96 mt-4 col-span-12 lg:col-span-5 2xl:col-span-4  h-68 xl:h-72 xl:sticky xl:top-5 '>
       <Tilt
         glareEnable={true}
         glareMaxOpacity={0.3}

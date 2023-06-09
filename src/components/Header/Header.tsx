@@ -44,7 +44,7 @@ const Header: FC = () => {
             <img
               src={item.imagePath}
               alt={item.name}
-              className='w-20 h-20 mx-3 m-2 md:w-16 md:h-14 '
+              className=' w-20 h-20 mx-3 m-2 md:w-16 md:h-14 '
             />
             <div>
               <div>{item.name}</div>
